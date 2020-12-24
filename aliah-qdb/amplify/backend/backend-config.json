@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "aliahqdbe56e68b3": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
